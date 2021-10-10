@@ -22,7 +22,7 @@
 				/>
 			</picture>
 
-			<p class="my-8 text-gray-600">
+			<p class="my-8 text-gray-600 dark:text-gray-300">
 				Enthusiast about FP, Game Programming, Robots, Lasers, Cats and many many more
 			</p>
 
