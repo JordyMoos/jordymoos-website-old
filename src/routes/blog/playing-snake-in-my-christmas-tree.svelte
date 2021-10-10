@@ -1,5 +1,5 @@
-<script>
-	import { select_option } from 'svelte/internal';
+<script context="module" lang="ts">
+	export const prerender = true;
 </script>
 
 <div class="flex">
