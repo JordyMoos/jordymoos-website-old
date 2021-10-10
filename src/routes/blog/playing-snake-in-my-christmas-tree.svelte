@@ -2,6 +2,12 @@
 	export const prerender = true;
 </script>
 
+<svelte:head>
+	<title>
+		Playing snake in my Christmas Tree
+	</title>
+</svelte:head>
+
 <div class="flex">
     <a
     href="/"
