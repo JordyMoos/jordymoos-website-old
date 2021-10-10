@@ -1,1 +1,1 @@
-# Jordy Moos its website made in Svelte!
+# Jordy Moos his website made in Svelte!
